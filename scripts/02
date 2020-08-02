@@ -1,0 +1,2 @@
+pkill -u $USER
+sudo userdel -rf $USER
